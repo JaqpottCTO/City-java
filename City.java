@@ -17,7 +17,7 @@ public class City {
         this.tourismIndex = tourismIndex;
     }
 
-    // Getters and Setters
+    // Getters and setters
     public String getName() {
         return name;
     }
@@ -66,3 +66,4 @@ public class City {
         this.tourismIndex = tourismIndex;
     }
 }
+
