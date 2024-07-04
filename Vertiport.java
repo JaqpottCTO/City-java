@@ -11,7 +11,7 @@ public class Vertiport {
         this.longitude = longitude;
     }
 
-    // Getters and Setters
+    // Getters and setters
     public String getName() {
         return name;
     }
